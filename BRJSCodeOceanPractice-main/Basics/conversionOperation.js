@@ -1,8 +1,9 @@
 "use strict"
+
+/*
 let score = "87"
 let Score = "233bhbj"
 
-/*
 console.log(typeof score) //string
 console.log(typeof (score)) //string
 
@@ -35,14 +36,18 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 console.log(booleanIsLoggedIn) // true
 */
 
+/*
 let name = "Balaram"
 
 let isStringNumber = Number(name)
 console.log(isStringNumber) //NaN
+*/
 
-
+/*
 let num = 1233
 
 let isNumString = String(num)
 console.log(isNumString) // 1233
 console.log(typeof isNumString); //string
+*/
+
