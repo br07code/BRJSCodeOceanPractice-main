@@ -1,3 +1,4 @@
+`use strict`;
 const accountId = 12345
 let accountName = "BalaramRoy_Acc"
 let accountEmail = "balaram.7872roy@gmail.com"
